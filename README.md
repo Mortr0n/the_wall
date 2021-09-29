@@ -7,4 +7,4 @@
 </p>
 <h2 align="center">The Forum posting wall for making posts and comments.  Only the logged in user has access to delete their specific messages and comments</h2>
 <p align="center">
-<img src="https://github.com/Mortr0n/the_wall/blob/1ff6688ec9217c28e8afd22c1a666766193cbc1f/thewall.PNG">
+<img src="https://github.com/Mortr0n/the_wall/blob/1ff6688ec9217c28e8afd22c1a666766193cbc1f/thewall.PNG">  
